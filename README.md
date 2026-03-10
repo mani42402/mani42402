@@ -1,197 +1,240 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Manan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Cloud%20Native%20Builder&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Manan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20Cloud%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Abdul+Manan+%F0%9F%91%8B;MERN+Stack+%7C+TypeScript+%7C+NestJS+Engineer;Building+Scalable+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Microservices;Let's+build+something+remarkable+together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Systems+That+Matter;MERN+%7C+NestJS+%7C+AWS+%7C+TypeScript;Crafting+the+Digital+Future+from+Lahore" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS + SOCIAL SHIELDS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abdul-manan1&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdul-manan-92093b1a2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://abdul-manan1.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:abdulmanan42402@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<!-- VISITOR BADGE + PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=abdul-manan1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/abdul-manan1?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Followers" />
+&nbsp;
+<a href="mailto:abdulmanan42402@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+<!-- ABOUT ME SECTION -->
+<table>
+<tr>
+<td valign="top" width="60%">
 
-```typescript
-const abdulManan = {
-  role        : "Software Engineer @ CoderzHunt",
-  location    : "Lahore, Pakistan 🇵🇰",
-  focus       : ["Full-Stack Development", "Cloud Architecture", "Microservices"],
-  stack       : {
-    frontend  : ["React", "Next.js", "TypeScript"],
-    backend   : ["Node.js", "NestJS", "Express.js"],
-    databases : ["PostgreSQL", "MongoDB", "MySQL", "ClickHouse"],
-    cloud     : ["AWS Lambda", "CDK", "CloudFormation", "SNS", "SQS", "S3", "EC2"],
-    devops    : ["Docker", "GitHub Actions", "CI/CD"],
-    data      : ["Dagster", "dbt", "ClickHouse"],
-  },
-  currently   : "Building scalable cloud-native architectures ☁️",
-  funFact     : "I speak 4 languages — and TypeScript is my favourite one 😄",
-};
+### 🧠 About Me
+```yaml
+name: Abdul Manan
+title: Software Engineer
+location: Lahore, Pakistan 🇵🇰
+company: CoderzHunt
+experience: 2+ Years in Production Systems
+
+focus_areas:
+  - Full-Stack Web Engineering
+  - Cloud-Native Architecture (AWS)
+  - Microservices & Event-Driven Systems
+  - Data Engineering Pipelines
+
+currently_learning:
+  - Advanced AWS Architecture
+  - System Design at Scale
+  - GraphQL & tRPC
+
+fun_fact: >
+  I turn coffee into cloud-deployed
+  applications with sub-second response times ☕⚡
 ```
+
+</td>
+<td valign="center" width="40%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF" />
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tech Arsenal
+<!-- TECH STACK SECTION -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🖥️ Frontend
+### ⚡ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 📊 Data Engineering
-![Dagster](https://img.shields.io/badge/Dagster-4F46E5?style=for-the-badge&logo=dagster&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-7356BF?style=for-the-badge&logo=dagster&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🔍 Face Recognition System
-> A computer vision application built with Python that identifies and verifies faces in real-time using deep learning models.
-
-**Tech:** `Python` `OpenCV` `Deep Learning` `Computer Vision`
-
-[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github)](https://github.com/abdul-manan1)
-
-</td>
-<td width="50%">
-
-### 📈 Stock Analysis Tool
-> An intelligent financial tool for analyzing stock market trends, visualizing price data, and generating insights for data-driven investment decisions.
-
-**Tech:** `Python` `Pandas` `Matplotlib` `Financial APIs`
-
-[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github)](https://github.com/abdul-manan1)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Stats
+<!-- AWS SPECIALTY SECTION -->
+## ☁️ AWS Cloud Services I Work With
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdul-manan1&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&bg_color=0d1117&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abdul-manan1&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-manan1&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&langs_count=8" />
+| Service | Purpose |
+|---------|---------|
+| 🔁 **Lambda** | Serverless compute & event-driven functions |
+| 📬 **SNS / SQS** | Event-driven messaging & microservice decoupling |
+| 🏗️ **CDK / CloudFormation** | Infrastructure-as-Code deployments |
+| 🪣 **S3** | Object storage & static asset hosting |
+| 🖥️ **EC2** | Compute instances & scalable workloads |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdul-manan1&theme=darkhub&no-frame=true&margin-w=10&column=7&title_color=a78bfa" />
+
+<img src="https://streak-stats.demolab.com/?user=abdul-manan1&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- CONTRIBUTION GRAPH -->
+## 🌱 Contribution Activity
 
 <div align="center">
+
+[![Abdul Manan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdul-manan1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-manan1/abdul-manan1/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul-manan1/abdul-manan1/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdul-manan1/abdul-manan1/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/abdul-manan1/abdul-manan1/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-</div>
-
-> 💡 To enable the snake animation: Go to your `abdul-manan1` repo → **Actions** → enable the **Generate Snake** workflow (or add one using [this guide](https://github.com/Platane/snk)).
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Status |
-|---|---|---|
-| 🐍 PCAP – Certified Associate in Python Programming | OpenEDG Python Institute | ✅ Certified |
-| 🎓 BSc in Computer Science | NCBA&E, Bahawalpur | ✅ Completed |
-| 📚 Associate Degree in IT | University of Central Punjab | ✅ Completed |
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+<!-- GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdul-manan-92093b1a2">
-  <img height="50" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://github-trophies.vercel.app/?username=abdul-manan1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" />
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+### 🏗️ What I've Built
+
+| 🔬 Project | 💡 Description | 🛠️ Stack |
+|-----------|---------------|---------|
+| **[Face Recognition System](https://github.com/abdul-manan1)** | Real-time face detection & identity verification pipeline | Python, OpenCV, ML |
+| **[Stock Analysis Tool](https://github.com/abdul-manan1)** | Market data aggregation with trend analysis & visualizations | Python, Data Engineering |
+
+---
+
+<!-- CERTIFICATIONS -->
+## 🎓 Education & Certifications
+
+<div align="center">
+
+```
+🏛️  BS Computer Science  —  NCBA&E, Bahawalpur          (2021–2023)
+🏛️  Associate IT Degree  —  University of Central Punjab (2016–2018)
+📜  PCAP Certified       —  Python Programming, OpenEDG Python Institute
+```
+
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+## 🌐 Let's Connect & Build Something Great
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abdul-manan-92093b1a2" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:abdulmanan42402@gmail.com">
-  <img height="50" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:abdulmanan42402@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://abdul-manan1.vercel.app">
-  <img height="50" src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://abdul-manan1.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/abdul-manan1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> 💬 *"I don't just write code — I architect solutions that scale, perform, and endure."*
+
+<br/>
+
+**Open to exciting opportunities, collaborations & freelance projects! 🤝**
 
 </div>
 
+---
+
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+  <sub>⭐ If you find my work useful, drop a star on my repos — it means the world! 🙏</sub>
+  <br/>
+  <sub>Made with ❤️ from Lahore, Pakistan 🇵🇰</sub>
+</div>
