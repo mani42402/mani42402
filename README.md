@@ -11,9 +11,9 @@
 <br/>
 
 <!-- VISITOR BADGE + PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=abdul-manan1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=mani42402&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/abdul-manan1?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Followers" />
+<img src="https://img.shields.io/github/followers/mani42402?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Followers" />
 &nbsp;
 <a href="mailto:abdulmanan42402@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -127,7 +127,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=abdul-manan1&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mani42402&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -138,7 +138,7 @@ fun_fact: >
 
 <div align="center">
 
-[![Abdul Manan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdul-manan1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdul Manan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mani42402&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -150,9 +150,9 @@ fun_fact: >
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-manan1/abdul-manan1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul-manan1/abdul-manan1/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/abdul-manan1/abdul-manan1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mani42402/mani42402/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mani42402/mani42402/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mani42402/mani42402/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -164,7 +164,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=abdul-manan1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" />
+<img src="https://github-trophies.vercel.app/?username=mani42402&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" />
 
 </div>
 
@@ -177,8 +177,8 @@ fun_fact: >
 
 | 🔬 Project | 💡 Description | 🛠️ Stack |
 |-----------|---------------|---------|
-| **[Face Recognition System](https://github.com/abdul-manan1)** | Real-time face detection & identity verification pipeline | Python, OpenCV, ML |
-| **[Stock Analysis Tool](https://github.com/abdul-manan1)** | Market data aggregation with trend analysis & visualizations | Python, Data Engineering |
+| **[Face Recognition System](https://github.com/mani42402)** | Real-time face detection & identity verification pipeline | Python, OpenCV, ML |
+| **[Stock Analysis Tool](https://github.com/mani42402)** | Market data aggregation with trend analysis & visualizations | Python, Data Engineering |
 
 ---
 
@@ -214,7 +214,7 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/abdul-manan1" target="_blank">
+<a href="https://github.com/mani42402" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
